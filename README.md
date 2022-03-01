@@ -1,2 +1,2 @@
-# Bungee-Config-
+# Bungee-Config
 Basic config methods for manipulate
